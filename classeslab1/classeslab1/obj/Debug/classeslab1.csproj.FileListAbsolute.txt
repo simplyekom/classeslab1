@@ -1,0 +1,8 @@
+C:\Users\simpl\Documents\Winter 2023 OOP\CPRG211E\projects\classeslab1\classeslab1\bin\Debug\classeslab1.exe.config
+C:\Users\simpl\Documents\Winter 2023 OOP\CPRG211E\projects\classeslab1\classeslab1\bin\Debug\classeslab1.exe
+C:\Users\simpl\Documents\Winter 2023 OOP\CPRG211E\projects\classeslab1\classeslab1\bin\Debug\classeslab1.pdb
+C:\Users\simpl\Documents\Winter 2023 OOP\CPRG211E\projects\classeslab1\classeslab1\obj\Debug\classeslab1.csproj.AssemblyReference.cache
+C:\Users\simpl\Documents\Winter 2023 OOP\CPRG211E\projects\classeslab1\classeslab1\obj\Debug\classeslab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\simpl\Documents\Winter 2023 OOP\CPRG211E\projects\classeslab1\classeslab1\obj\Debug\classeslab1.csproj.CoreCompileInputs.cache
+C:\Users\simpl\Documents\Winter 2023 OOP\CPRG211E\projects\classeslab1\classeslab1\obj\Debug\classeslab1.exe
+C:\Users\simpl\Documents\Winter 2023 OOP\CPRG211E\projects\classeslab1\classeslab1\obj\Debug\classeslab1.pdb
